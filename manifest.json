@@ -1,0 +1,19 @@
+{
+  "name": "Treasure Cove Casino",
+  "short_name": "Treasure Cove Casino",
+  "theme_color": "",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1763650248-favicon-wwwtreasurecovecasinocom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
